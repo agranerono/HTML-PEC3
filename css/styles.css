@@ -484,7 +484,7 @@ nav ul li a {
 
 .breadcrumb {
     color: rgb(0, 59, 74);
-    margin-left: 10%;
+    margin-left: 11%;
     margin-bottom: 30px;
     font-size: 14px;
 }
@@ -626,7 +626,7 @@ nav ul li a {
         margin-right: 0;
     }
     .breadcrumb {
-        margin-left: 10px;
+        margin-left: 5px;
     }
 
     .blockquote  {

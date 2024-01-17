@@ -115,7 +115,7 @@ nav ul li a {
     }
     .banner-text {
         font-size: 50px;
-        font-weight: bolder;
+        font-weight: 900;
         margin-left: 0px;
         width: auto; 
     }
@@ -128,7 +128,7 @@ nav ul li a {
     }
     .banner-text {
         font-size: 45px;
-        font-weight: bolder;
+        font-weight: 900;
         margin-left: 0px;
     }
 
@@ -430,6 +430,12 @@ nav ul li a {
 .large-column p, ul li {
     color: rgb(0, 59, 74);    
     margin:  0px 12px 12px 12px;
+}
+
+.large-column .intro {
+    color: rgb(0, 59, 74);    
+    margin:  0px 12px 12px 12px;
+    font-size: 20px;
 }
 
 .large-column a {
@@ -832,8 +838,8 @@ nav ul li a {
 
 .page {
     display: inline-block;
-    padding: 8px 12px;
-    margin-right: 5px;
+    padding: 8px 10px;
+    margin-right: 10px;
     text-decoration: none;
     color: rgb(0, 59, 74);
     border: 1px solid rgb(0, 59, 74);
